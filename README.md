@@ -1,5 +1,5 @@
-# ParadigmaTrabalho
+# Bases e Paradigma Trabalho
 
-Trabalho de Paradigmas de Linguagem de Programação
+Trabalho de Bases de Programação e Paradigmas de Linguagem de Programação
 Período: 1º
-Orientador: Alfredo Boente
+Orientadores: Lázaro e Alfredo Boente
